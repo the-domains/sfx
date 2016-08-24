@@ -1,0 +1,14 @@
+layout_spectrum: 0.594503985485062
+typography_spectrum: 0.9727996867150068
+color:
+  brandStrength: 0.6317865184973925
+  lightness: 0.1691260877996683
+  saturation: 0.28408653079532087
+  rhythmicContrast: 0.880483674351126
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: sfx
